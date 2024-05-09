@@ -1,16 +1,19 @@
 ### Hi there 👋
 
+ 🔭 I’m currently working on BI tools for the logistics industry.
+ 🌱 I’m currently enhancing my command on BI tools such as Power BI, Superset, etc.
+ ⚡ Fun fact: People don't make sense, code does.
+
 <!--
 **Eazy30/Eazy30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on BI tools for the logistics industry.
- 🌱 I’m currently enhancing my command on BI tools such as Power BI, Superset, etc.
+ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-⚡ Fun fact: People don't make sense, code does.
+
 -->
