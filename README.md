@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on BI tools for the logistics industry. \n
- 🌱 I’m currently enhancing my command on BI tools such as Power BI, Superset, etc.
+ 🔭 I’m currently working on BI tools for the logistics industry. <br>
+ 🌱 I’m currently enhancing my command on BI tools such as Power BI, Superset, etc. <br>
  ⚡ Fun fact: People don't make sense, code does.
 
 <!--
